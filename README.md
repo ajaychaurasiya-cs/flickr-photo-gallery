@@ -43,5 +43,5 @@ A beautiful **React Native Expo app** that lets you browse photos from Flickr in
    npx expo start
    ```
 
-![App Screenshot](./assets/images/screenshot.png)
+![App Screenshot]([./assets/images/screenshot.png](https://github.com/ajaychaurasiya-cs/flickr-photo-gallery/blob/main/assets/images/Screenshot.png))
 
